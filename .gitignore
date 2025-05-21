@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+.vscode/
+venv/
+media/
+
+db.sqlite3
+db.sqlite3-journal
+
+node_modules/
+package.json
+ecosystem.config.js
+package-lock.json
+logs/
+.env
